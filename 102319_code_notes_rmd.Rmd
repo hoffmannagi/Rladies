@@ -26,6 +26,7 @@ Working directory -git add-> staging areas -git commit-> history
 
 data <- read_csv("data.csv")
 str(data)
+head(data)
 
 ```
 
